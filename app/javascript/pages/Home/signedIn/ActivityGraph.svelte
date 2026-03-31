@@ -38,7 +38,7 @@
           data.busiest_day_seconds,
         )}"
         href="?date={date}"
-        title="you hacked for {durationInWords(seconds)} on {date}"
+        title="hacked for {durationInWords(seconds)} on {date}"
         data-date={date}
         data-duration={durationInWords(seconds)}
       >
